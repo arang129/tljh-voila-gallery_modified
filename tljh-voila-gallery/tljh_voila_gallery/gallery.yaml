@@ -1,31 +1,7 @@
 examples:
-  country-indicators:
-    title: country-indicators
-    description: Explore the correlations between indicators of development using matplotlib and ipywidgets
-    url: voila/render/index.ipynb
-    repo_url: https://github.com/voila-gallery/voila-gallery-country-indicators
-    image_url: https://i.imgur.com/IeG75O3.png
   gaussian-density:
     title: gaussian-density
     description: Explore the normal distribution interactively with bqplot
     url: voila/render/index.ipynb
     repo_url: https://github.com/voila-gallery/gaussian-density
     image_url: https://i.imgur.com/J1Mj6rc.png
-  render-stl:
-    title: render-stl
-    description: Explore STL files with ipyvolume
-    url: voila/render/index.ipynb
-    repo_url: https://github.com/voila-gallery/render-stl
-    image_url: https://github.com/voila-gallery/render-stl/raw/master/thumbnail.png
-  cpp-xleaflet:
-    title: cpp-xleaflet
-    description: Interactive maps with xleaflet and the C++ kernel
-    url: voila/render/index.ipynb
-    repo_url: https://github.com/voila-gallery/cpp-xleaflet
-    image_url: https://github.com/voila-gallery/cpp-xleaflet/raw/master/thumbnail.png
-  gpx-viewer:
-    title: gpx-viewer
-    description: GPX Viewer web app built with ipywidgets, ipyleaflet, bqplot and voila
-    url: voila/render/app.ipynb
-    repo_url: https://github.com/jtpio/voila-gpx-viewer
-    image_url: https://user-images.githubusercontent.com/591645/60527710-0ff1c680-9cf3-11e9-87b5-8711fd3da344.gif
